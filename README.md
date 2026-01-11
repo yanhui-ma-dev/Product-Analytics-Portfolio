@@ -30,6 +30,6 @@ Visual Storytelling: Converted R-based statistical outputs into dynamic, drill-d
 ## 🛠 Tech Stack
 ### Languages: R (data.table, dplyr, ggplot2, randomForest, e1071, kohonen).
 
-### Tools: Tableau, SQL, Git/GitHub.
+### Tools: Tableau.
 
 ### Methodologies: Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation (ROC/AUC).
