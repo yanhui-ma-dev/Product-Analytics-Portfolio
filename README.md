@@ -1,52 +1,35 @@
-Product Analytics & Machine Learning Portfolio
+# 🚀 Product Analytics & Machine Learning Portfolio
+## 📌 Project Overview
 This repository showcases a comprehensive collection of data analytics and machine learning projects, bridging the gap between raw data orchestration and actionable business intelligence.
 
-📂 Project Structure
-1. Predictive Modeling Lab 1: Big Data & Feature Engineering
-Focus: Spatiotemporal data orchestration and cleaning of large-scale datasets.
+## 📂 Project Structure
+### 1. Predictive Modeling Lab 1: Big Data & Feature Engineering
+Core Achievement: Orchestrated a high-performance pipeline for 21.8 million GPS records.
 
-Key Achievement: Processed 21.8 million GPS records from Rome’s taxi network.
+Key Skills: Data Cleaning (removing noise/outliers), Haversine Distance Calculation, and Spatiotemporal Analysis.
 
-Technical Highlights:
+Business Value: Derived driver activity metrics and operational patterns for large-scale urban mobility.
 
-Implemented high-performance cleaning for invalid coordinates and duplicated records.
+### 2. Predictive Modeling Lab 2: Risk Intelligence & Benchmarking
+Core Achievement: Benchmarked 5+ algorithms (Random Forest, SVM, Naive Bayes) for credit risk assessment.
 
-Engineered trajectory metrics using the Haversine formula to calculate distance and instantaneous speed.
+Key Skills: Hyperparameter Tuning, PCA Dimensionality Reduction, and SOM Neural Networks.
 
-Identified operational patterns and driver activity duration metrics.
+Evaluation Metrics: Specialized in ROC/AUC analysis (SVM AUC: 0.8524) and Confidence-based Reject Options.
 
-2. Predictive Modeling Lab 2: Risk Intelligence & Model Benchmarking
-Focus: Supervised and unsupervised learning for financial risk assessment.
+### 3. Retail Analysis: RFM & Geo-temporal Insights
+Core Achievement: Translated 500k+ transactional records into a strategic RFM framework.
 
-Key Achievement: Benchmarked multiple algorithms to optimize creditworthiness prediction accuracy.
+Key Skills: Customer Segmentation, Seasonal Trend Analysis, and Strategic Recommendation.
 
-Technical Highlights:
+## 📊 Business Intelligence & Visualization (Tableau)
+Interactive Dashboards: Developed executive-level Tableau dashboards to visualize RFM segments.
 
-Multi-Model Evaluation: Compared Random Forest, SVM, Naive Bayes, and Logistic Regression.
+Visual Storytelling: Converted R-based statistical outputs into dynamic, drill-down visualizations for stakeholders.
 
-Advanced Evaluation: Utilized ROC Curves and AUC metrics (achieving 0.8524 for SVM) to validate model reliability.
+## 🛠 Tech Stack
+### Languages: R (data.table, dplyr, ggplot2, randomForest, e1071, kohonen).
 
-Strategic Optimization: Implemented a "Reject Option" (402040 logic) to manage prediction confidence thresholds.
+### Tools: Tableau, SQL, Git/GitHub.
 
-3. Retail Analysis: RFM & Geo-temporal Insights
-Focus: Customer segmentation and business growth strategy.
-
-Key Achievement: Translated transactional data into a strategic RFM (Recency, Frequency, Monetary) framework.
-
-Technical Highlights:
-
-Segmented 500k+ records to identify high-value customer clusters.
-
-Provided data-driven recommendations for market retention and seasonal inventory management.
-
-📊 Business Intelligence & Visualization (Tableau)
-Interactive Dashboards: Developed executive-level dashboards to visualize customer segmentation (RFM) and geo-temporal purchasing patterns.
-
-Actionable Insights: Enabled stakeholders to perform deep-dives into regional sales performance and seasonal trends through dynamic filtering and drill-down capabilities.
-
-Visual Storytelling: Translated R-based statistical outputs into intuitive Tableau visualizations to drive market expansion strategies.
-
-🛠 Tech Stack
-Languages: R (data.table, dplyr, ggplot2, kohonen, randomForest, e1071)
-
-Methodologies: Feature Engineering, PCA, SOM Neural Networks, ROC/AUC Evaluation, RFM Modeling
+### Methodologies: Supervised/Unsupervised Learning, Feature Engineering, Model Evaluation (ROC/AUC).
