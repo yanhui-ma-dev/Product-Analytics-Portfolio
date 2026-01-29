@@ -26,9 +26,9 @@ This repository showcases an end-to-end data analytics and machine learning work
 ---
 
 ## 🛠 Tech Stack & Methodologies
-* **Languages**: R (Advanced), SQL (BigQuery).
-* **Tools**: Tableau, Jira/Confluence, MS Excel (Modeling).
-* **BA Frameworks**: **BPMN 2.0**, **Gap Analysis**, **SOA Architecture**, PMP Methodology.
+* **Languages**: R (Advanced), SQL.
+* **Tools**: Tableau.
+* **BA Frameworks**: **BPMN 2.0**, **Gap Analysis**, **SOA Architecture**.
 
 ---
 *Maintained by Yanhui Ma – Business Analyst & Operations Specialist*
